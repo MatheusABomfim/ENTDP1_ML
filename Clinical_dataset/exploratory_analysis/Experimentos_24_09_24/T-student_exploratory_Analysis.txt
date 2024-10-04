@@ -1,0 +1,5 @@
+- Incontinência (p-value: 0.02287)
+- Paresia/Fraqueza MMII (p-value: 0.01524)
+- Espasticidade (p-value: 0.00025)
+- Bexiga Neurogênica (p-value: 0.00000)
+- Função Motora (p-value: 0.01360)

@@ -1,0 +1,54 @@
+Categorização 1 (cat1_df_clinic_ENTPD1)
+- Criado a coluna "Comprometimento da função urinária"
+
+- Exclusão das colunas:
+Trato gastrointestinal
+Disúria
+Incontinência 
+Fadiga
+Edema
+Câimbras
+Parestesia MMII
+Bexiga neurogênica
+Tremores
+
+Sem CV
+
+ROS:
+K = 10; G-mean médio = 0,838417816430573
+Gênero	
+Idade_clinica	
+Dermatológicos	
+Comprometimento da função urinária	
+Dor MMII	
+Parestesia MMII	
+Paresia/Fraqueza MMII	
+Neuropatia MMSS	
+Função Motora	
+rs10748643
+
+ADASYN:
+K = 10 G-mean médio = 0,801044137834097
+Idade_clinica	
+Dermatológicos	
+Artralgia	
+Sintomas psiquiátricos	
+Dor MMII	
+Paresia/Fraqueza MMII	
+Dor Lombar/Coluna	
+Função Motora	
+rs10748643
+
+RUS:
+K = 10 G-mean médio = 0,843139721158272
+Gênero	
+Idade_clinica	
+Dermatológicos	
+Comprometimento da função urinária	
+Dor MMII	
+Parestesia MMII	
+Paresia/Fraqueza MMII	
+Neuropatia MMSS	
+Função Motora	
+rs10748643
+
