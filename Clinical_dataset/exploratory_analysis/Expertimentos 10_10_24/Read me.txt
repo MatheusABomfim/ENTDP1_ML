@@ -1,0 +1,4 @@
+- Agora que foi definido de forma iterativa que o método de balanceamento com melhores resultados foi o RUS, vamos definir o valor de K a ser utilizado
+- Iniciei com K = 12
+- Para K=11 retirei os dermatológicos ao invés do que indicado pelo K-Best
+- K=12 Foi definido como o melhor subconjunto

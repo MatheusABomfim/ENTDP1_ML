@@ -1,4 +1,3 @@
 - RUS e SMOTENC apresetaram melhores resultados no feature selection
 - SMOTENC possivelmente superestimado
 - VIF alta em ambos métodos de balanceamento, principalmente do RUS
-- Gerarei uma nova categorização fazendo a PCA de aspectos associados

@@ -1,0 +1,17 @@
+P-values for each independent variable:
+const                                 0.638676
+Gênero                                0.860976
+Idade_clinica                         0.493201
+Dermatológicos                        0.836383
+Artralgia                             0.789004
+Comprometimento da função urinária    0.518647
+Sintomas psiquiátricos                0.633695
+Dor MMII                              0.055721
+Parestesia MMII                       0.223686
+Paresia/Fraqueza MMII                 0.295861
+Dor Lombar/Coluna                     0.303796
+Neuropatia MMSS                       0.191617
+Função Motora                         0.043667
+rs10748643                            0.550572
+rs11188513                            0.595432
+dtype: float64
