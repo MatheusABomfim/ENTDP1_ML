@@ -1,0 +1,3 @@
+- Comprometimento da função urinária (p-value: 0.04243)
+- Paresia/Fraqueza MMII (p-value: 0.01524)
+- Função Motora (p-value: 0.01360)
