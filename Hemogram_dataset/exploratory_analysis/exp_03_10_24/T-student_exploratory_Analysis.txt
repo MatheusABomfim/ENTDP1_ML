@@ -1,0 +1,2 @@
+- HEMOGLOBINA (g/dL) (p-value: 0.02509)
+- HEMATÓCRITO (%) (p-value: 0.03220)

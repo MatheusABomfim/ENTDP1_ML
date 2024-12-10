@@ -1,0 +1,9 @@
+P-values for each independent variable:
+const                         0.117908
+Gênero                        0.320130
+Idade_clinica                 0.883880
+Expression_CD39_Diplotypes    0.804567
+PCA_Hemacias                  0.012544
+PCA_Leucocitos                0.147590
+PCA_Plaquetas                 0.298003
+dtype: float64
