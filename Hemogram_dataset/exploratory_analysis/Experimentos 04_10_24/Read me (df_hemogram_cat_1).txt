@@ -1,6 +1,0 @@
-- Rus foi o modelo de melhor desempenho a nível Undersampling, com baixo VIF
-- SMOTENC foi o modelo de melhor desempenho Oversampling
-- A categorização parece ter resolvido problemas de multicolinearidade com as PCAs para hemácias, leucócitos e plaquetas
-- RUS foi o método de balanceamento com melhor resultado
-- Comecei a testar K=7
-- Melhor resultado, respeitando ainda a presença dos SNPs foi o K=6
