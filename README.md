@@ -5,9 +5,13 @@ Project Structure
 The project is initially divided into four main scripts:
 
 Exploratory Data Analysis (EDA): Initial data exploration and preprocessing.
+
 Model Selection and Optimization: Defining and optimizing machine learning models.
+
 Model Performance Evaluation: Assessing the predictive capability of the models.
+
 Explainable AI (XAI) Application: Applying XAI techniques to interpret the model's predictions.
+
 
 Notes & Reminders
 Clinical data has been excluded since it is yet to be extracted from medical records.
