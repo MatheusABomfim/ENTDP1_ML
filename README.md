@@ -16,7 +16,8 @@ Environment & Dependencies
 The code was developed using the following versions:
 
 
-- Python version: 3.11.7  
+Python version: 3.11.7
+  
 Libraries:  
 - scikit-learn: 1.2.2  
 - imbalanced-learn: 0.12.1  
