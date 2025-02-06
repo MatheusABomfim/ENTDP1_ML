@@ -8,15 +8,14 @@ Exploratory Data Analysis (EDA): Initial data exploration and preprocessing.
 Model Selection and Optimization: Defining and optimizing machine learning models.
 Model Performance Evaluation: Assessing the predictive capability of the models.
 Explainable AI (XAI) Application: Applying XAI techniques to interpret the model's predictions.
+
 Notes & Reminders
 Clinical data has been excluded since it is yet to be extracted from medical records.
 Once available, oligosymptomatic patients will be classified separately to enhance model performance.
 Environment & Dependencies
 The code was developed using the following versions:
 
-plaintext
-Copiar
-Editar
+
 Python version: 3.11.7  
 Libraries:  
 - scikit-learn: 1.2.2  
@@ -25,27 +24,27 @@ Libraries:
 Dataset Information
 The dataset used is named: cat2_df_clinic_ENTPD1.csv.
 
-Data Dictionary
-Categorical Variables
-SEX
+Data Dictionary:
 
+Categorical Variables
+SEX (Gênero)
 0 = Male
 1 = Female
-P-HAM/TSP
 
+P-HAM/TSP (PROVAVEL_HAM/TSP)
 0 = No myelopathy
 1 = P-HAM/TSP
-Expression_CD39_Diplotypes
 
+Expression_CD39_Diplotypes
 3 = Genotypes associated with high CD39 expression
 2 = Genotypes associated with moderate CD39 expression
 1 = Genotypes associated with low CD39 expression
-Numerical Variables
-Age (Idade_clinica)
-Patient's age in years.
-Binary Clinical Symptoms (0 = Absence / 1 = Presence)
-Dermatologic problems (Dermatológicos)
 
+Age (Idade_clinica) = Patient's age in years.
+
+Binary Clinical Symptoms (0 = Absence / 1 = Presence)
+
+Dermatologic problems (Dermatológicos)
 1 = Presence of dermatologic problems
 0 = Absence of dermatologic problems
 Arthralgia (Artralgia)
